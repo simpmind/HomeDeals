@@ -1,7 +1,7 @@
 # Home Deals
 
 ## Real Estate solution for direct selling Owner-Client 
-[Deployed Link]([add link to heroku here](https://homedeals.herokuapp.com))
+[Deployed Link]([Link to our heroku here](https://homedeals.herokuapp.com))
 
 
 [Source Code]([link to our github](https://github.com/simpmind/HomeDeals))
