@@ -4,7 +4,7 @@
     "description": "Project 2 Starter",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js",
+        "start": "npm run seed && node server.js",
         "watch": "nodemon server.js",
         "lint": "eslint **/*.js --quiet",
         "fix": "eslint --fix .",
