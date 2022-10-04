@@ -17,7 +17,7 @@
 
 This project is a fully functional and fully mobile responsive site deployed in Heroku. The idea behind this site is to provide owners to post their properties in a place where potential buyers can look for them without the need of a third party (realtor).
 
-The project is based on **node.js** and **express.js**. The back end is backed by a **MySQL Database** and **Sequelize** as the ORM. The aplication has been deployed in **Heroku** using their **JewsDB** database application.
+The project is based on **node.js** and **express.js**. The back end is backed by a **MySQL Database** and **Sequelize** as the ORM. The aplication has been deployed in **Heroku** using their **JawsDB** database application.
 
 > ## Building tools
 - **FRONT END**
